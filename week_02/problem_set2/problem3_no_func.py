@@ -19,3 +19,4 @@ while round(balance, 2) != 0.00:
     else:
         fixed_monthly_pay_max = fixed_monthly_pay
 print(round(fixed_monthly_pay, 2))
+print('yolo')
