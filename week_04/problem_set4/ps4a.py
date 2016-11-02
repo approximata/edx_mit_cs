@@ -16,7 +16,7 @@ SCRABBLE_LETTER_VALUES = {
 # Helper code
 # (you don't need to understand this helper code)
 
-WORDLIST_FILENAME = "/home/matekovacsbodor/gitstudyfolder/edx_mit_cs/week_04/problem_set4/words.txt"
+WORDLIST_FILENAME = "words.txt"
 
 def loadWords():
     """
